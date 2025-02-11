@@ -1,3 +1,16 @@
 img{
 width: 200px;
+heiget: 100px;
+background-color: blue;
+}
+.primeirarescao{
+
+    width: 1000px;
+    height: 500px;
+    background-color: (43,186,266);
+}
+.divisao{
+width: 200px;
+height: 200px;
+background-color: blue;
 }
